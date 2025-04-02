@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar {
+    background-color: #3b5d50 !important;
+}
+
+.hero-section {
+    background-color: #3b5d50;
+    color: white;
+    padding: 100px 0;
+}
+
+.btn-warning {
+    background-color: #f9be29;
+    border: none;
+}
+
+.btn-outline-light {
+    border-color: white;
+    color: white;
+}
+
+.btn-outline-light:hover {
+    background-color: white;
+    color: #3b5d50;
+}
+
+footer {
+    background-color: #3b5d50;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1, h4 {
+    font-weight: 700;
+}
+
+.text-muted {
+    color: #6c757d;
+}
